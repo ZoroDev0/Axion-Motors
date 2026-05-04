@@ -173,7 +173,7 @@ Automobile-Brand-Website/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sasanka14/Automobile-Brand-Website.git
+   git clone https://github.com/ZoroDev0/Axion-Motors.git
    ```
 
 2. **Navigate to project directory**
@@ -270,13 +270,16 @@ Edit the contact details in `contact.html`:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e08a283-fcdf-45a1-bce1-a4f3729a7749" width="550" alt="Desktop View" />
+  <img src="assets/Destopview.png" width="600" alt="Desktop View" /><br/>
+  <sub><b>Desktop Experience</b> — Cinematic layout with immersive visuals</sub>
 </p>
+
+<br/>
 
 <p align="center">
-  <sub>Desktop</sub>
+  <img src="assets/Mobileview.png" width="300" alt="Mobile View" /><br/>
+  <sub><b>Mobile Experience</b> — Responsive, fluid, and performance-optimized</sub>
 </p>
-
 
 ---
 
@@ -309,11 +312,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Sasanka** - [@sasankawrites](https://www.linkedin.com/in/sasankawrites/)
+**Sasanka** - [@zorodev](https://www.linkedin.com/in/zorodev/)
 
 - 🌐 Portfolio: [sasankawrites.in](https://sasankawrites.in/)
-- 📸 Instagram: [@sashank.codes_](https://www.instagram.com/sashank.codes_)
-- 💻 GitHub: [@Sasanka14](https://github.com/Sasanka14)
+- 📸 Instagram: [@sashank.codes_](https://www.instagram.com/zorodev.exe)
+- 💻 GitHub: [@Sasanka14](https://github.com/ZoroDev0)
 
 ### AXION Motors (Fictional)
 - 📍 Unit no. 2, Aman Chamber, Swatantryaveer Savarkar Rd, Opp. New Passport Office, Century Bazaar, Prabhadevi, Mumbai, Maharashtra 400025
@@ -332,7 +335,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://sasankawrites.in/">Sasanka</a>
+  Made with ❤️ by <a href="https://sasankawrites.in/">Zoro</a>
 </p>
 
 <p align="center">
