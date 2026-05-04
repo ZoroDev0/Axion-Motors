@@ -315,8 +315,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Sasanka** - [@zorodev](https://www.linkedin.com/in/zorodev/)
 
 - 🌐 Portfolio: [sasankawrites.in](https://sasankawrites.in/)
-- 📸 Instagram: [@sashank.codes_](https://www.instagram.com/zorodev.exe)
-- 💻 GitHub: [@Sasanka14](https://github.com/ZoroDev0)
+- 📸 Instagram: [@zorodev.exe](https://www.instagram.com/zorodev.exe)
+- 💻 GitHub: [@ZoroDev0](https://github.com/ZoroDev0)
 
 ### AXION Motors (Fictional)
 - 📍 Unit no. 2, Aman Chamber, Swatantryaveer Savarkar Rd, Opp. New Passport Office, Century Bazaar, Prabhadevi, Mumbai, Maharashtra 400025
